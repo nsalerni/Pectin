@@ -1,4 +1,4 @@
-Pectin (CPS840 Project)
+Pectin (CPS840 Project) - [Website](http://www.thecsguy.com/pectin/)
 ========
 
 This is a sample iOS app that demonstrates multi-party audio/video conferencing using WebRTC and the XirSys cloud infrastructure.
