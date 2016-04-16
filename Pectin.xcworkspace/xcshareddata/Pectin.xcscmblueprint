@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "456D3AEEBAE49AD7BC7ED00430EB8C5007672705",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "29BF6D409910B84F19D8F042005D99CDE4D7BA7E" : 0,
+    "456D3AEEBAE49AD7BC7ED00430EB8C5007672705" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "93CC2AA7-10BF-473A-A51F-D98F87E29E49",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "29BF6D409910B84F19D8F042005D99CDE4D7BA7E" : "",
+    "456D3AEEBAE49AD7BC7ED00430EB8C5007672705" : "Pectin\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pectin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Pectin.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nsalerni\/git.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "29BF6D409910B84F19D8F042005D99CDE4D7BA7E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nsalerni\/Pectin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "456D3AEEBAE49AD7BC7ED00430EB8C5007672705"
+    }
+  ]
+}

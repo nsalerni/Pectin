@@ -9,11 +9,16 @@
 /* Begin PBXBuildFile section */
 		2916E06E3C614C1597B69AED /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F40CBFAC184F4D4990076EE3 /* libPods.a */; };
 		4BCFC5BF1A5215A800DFC4B8 /* PHErrors.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BCFC5BE1A5215A800DFC4B8 /* PHErrors.m */; };
-		4BCFC5C11A53141D00DFC4B8 /* Launch Screen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4BCFC5C01A53141D00DFC4B8 /* Launch Screen.xib */; };
 		5867C65B86B9E19C4837AA93 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F40CBFAC184F4D4990076EE3 /* libPods.a */; };
 		AB10FA641CB1B4160082ADBF /* PHVideoCaptureKit.mm in Sources */ = {isa = PBXBuildFile; fileRef = AB10FA631CB1B4160082ADBF /* PHVideoCaptureKit.mm */; settings = {COMPILER_FLAGS = "-fno-rtti"; }; };
 		AB10FA661CB1B4300082ADBF /* PHVideoCaptureBridge.mm in Sources */ = {isa = PBXBuildFile; fileRef = AB10FA651CB1B4300082ADBF /* PHVideoCaptureBridge.mm */; settings = {COMPILER_FLAGS = "-fno-rtti"; }; };
+		AB4FBD3F1CBC24AC009ABF4F /* appicon.png in Resources */ = {isa = PBXBuildFile; fileRef = AB4FBD3E1CBC24AC009ABF4F /* appicon.png */; };
+		AB4FBD411CBC2881009ABF4F /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB4FBD401CBC2881009ABF4F /* Launch Screen.storyboard */; };
 		ABB0BC911CB1A53300B6772D /* pectinlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = ABB0BC901CB1A53300B6772D /* pectinlogo.png */; };
+		ABCD7B041CB40B7F00B0C5F2 /* v_m_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = ABCD7B011CB40B7F00B0C5F2 /* v_m_bg.png */; };
+		ABCD7B051CB40B7F00B0C5F2 /* v_u_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = ABCD7B021CB40B7F00B0C5F2 /* v_u_logo.png */; };
+		ABCD7B061CB40B7F00B0C5F2 /* v_u_subtitle.png in Resources */ = {isa = PBXBuildFile; fileRef = ABCD7B031CB40B7F00B0C5F2 /* v_u_subtitle.png */; };
+		ABCD7B0B1CB40DDA00B0C5F2 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABCD7B0A1CB40DDA00B0C5F2 /* Storyboard.storyboard */; };
 		ABEB7EA91CB1D71A00B13AE2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF80C59D19960F54007DE967 /* Images.xcassets */; };
 		BF0206BB1AFC376A00C8160E /* PHSettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF0206BA1AFC376A00C8160E /* PHSettingsViewController.m */; };
 		BF021E601A4E84B1007E8F11 /* RTCMediaStream+PHStreamConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = BF021E5F1A4E84B1007E8F11 /* RTCMediaStream+PHStreamConfiguration.m */; };
@@ -69,11 +74,16 @@
 		09B2429C8CDF70715B44E8A1 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		4BCFC5BD1A5215A800DFC4B8 /* PHErrors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PHErrors.h; sourceTree = "<group>"; };
 		4BCFC5BE1A5215A800DFC4B8 /* PHErrors.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PHErrors.m; sourceTree = "<group>"; };
-		4BCFC5C01A53141D00DFC4B8 /* Launch Screen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = "Launch Screen.xib"; path = "../Launch Screen.xib"; sourceTree = "<group>"; };
 		4BD55A4D1AFD58F800CDD370 /* PHCredentials.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHCredentials.h; sourceTree = "<group>"; };
 		AB10FA631CB1B4160082ADBF /* PHVideoCaptureKit.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; name = PHVideoCaptureKit.mm; path = Pectin/CaptureKit/PHVideoCaptureKit.mm; sourceTree = "<group>"; };
 		AB10FA651CB1B4300082ADBF /* PHVideoCaptureBridge.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; name = PHVideoCaptureBridge.mm; path = Pectin/CaptureKit/PHVideoCaptureBridge.mm; sourceTree = "<group>"; };
+		AB4FBD3E1CBC24AC009ABF4F /* appicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appicon.png; sourceTree = "<group>"; };
+		AB4FBD401CBC2881009ABF4F /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		ABB0BC901CB1A53300B6772D /* pectinlogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pectinlogo.png; sourceTree = "<group>"; };
+		ABCD7B011CB40B7F00B0C5F2 /* v_m_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = v_m_bg.png; sourceTree = "<group>"; };
+		ABCD7B021CB40B7F00B0C5F2 /* v_u_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = v_u_logo.png; sourceTree = "<group>"; };
+		ABCD7B031CB40B7F00B0C5F2 /* v_u_subtitle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = v_u_subtitle.png; sourceTree = "<group>"; };
+		ABCD7B0A1CB40DDA00B0C5F2 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		BF0206B91AFC376A00C8160E /* PHSettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PHSettingsViewController.h; path = "User Interface/PHSettingsViewController.h"; sourceTree = "<group>"; };
 		BF0206BA1AFC376A00C8160E /* PHSettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PHSettingsViewController.m; path = "User Interface/PHSettingsViewController.m"; sourceTree = "<group>"; };
 		BF0206BC1AFC41D000C8160E /* PHMediaConfiguration.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PHMediaConfiguration.h; sourceTree = "<group>"; };
@@ -205,6 +215,9 @@
 		ABB0BC931CB1A6D800B6772D /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				ABCD7B011CB40B7F00B0C5F2 /* v_m_bg.png */,
+				ABCD7B021CB40B7F00B0C5F2 /* v_u_logo.png */,
+				ABCD7B031CB40B7F00B0C5F2 /* v_u_subtitle.png */,
 				ABB0BC901CB1A53300B6772D /* pectinlogo.png */,
 			);
 			name = Images;
@@ -365,9 +378,11 @@
 				ABB0BC951CB1A73E00B6772D /* API */,
 				ABB0BC941CB1A70800B6772D /* View Controllers */,
 				ABB0BC931CB1A6D800B6772D /* Images */,
-				4BCFC5C01A53141D00DFC4B8 /* Launch Screen.xib */,
 				BF80C59D19960F54007DE967 /* Images.xcassets */,
 				BF80C59219960F54007DE967 /* Supporting Files */,
+				ABCD7B0A1CB40DDA00B0C5F2 /* Storyboard.storyboard */,
+				AB4FBD3E1CBC24AC009ABF4F /* appicon.png */,
+				AB4FBD401CBC2881009ABF4F /* Launch Screen.storyboard */,
 			);
 			path = Pectin;
 			sourceTree = "<group>";
@@ -519,10 +534,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB4FBD3F1CBC24AC009ABF4F /* appicon.png in Resources */,
 				BF80C59619960F54007DE967 /* InfoPlist.strings in Resources */,
+				ABCD7B041CB40B7F00B0C5F2 /* v_m_bg.png in Resources */,
 				ABEB7EA91CB1D71A00B13AE2 /* Images.xcassets in Resources */,
+				ABCD7B051CB40B7F00B0C5F2 /* v_u_logo.png in Resources */,
+				ABCD7B0B1CB40DDA00B0C5F2 /* Storyboard.storyboard in Resources */,
 				ABB0BC911CB1A53300B6772D /* pectinlogo.png in Resources */,
-				4BCFC5C11A53141D00DFC4B8 /* Launch Screen.xib in Resources */,
+				AB4FBD411CBC2881009ABF4F /* Launch Screen.storyboard in Resources */,
+				ABCD7B061CB40B7F00B0C5F2 /* v_u_subtitle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -808,12 +828,14 @@
 					"\"${SRCROOT}\"/**",
 				);
 				INFOPLIST_FILE = "Pectin/Pectin-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-frtti",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.nsalerni.Pectin;
 				PRODUCT_NAME = "Pectin-Dev";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -834,12 +856,14 @@
 					"\"${SRCROOT}\"/**",
 				);
 				INFOPLIST_FILE = "Pectin/Pectin-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-frtti",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.nsalerni.Pectin;
 				PRODUCT_NAME = "Pectin-Dev";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
